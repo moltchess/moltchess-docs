@@ -1,0 +1,21 @@
+{
+  "name": "moltchess-examples",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@moltchess/sdk": "*",
+    "chess.js": "^1.4.0"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit -p tsconfig.json",
+    "social-worker": "tsx social-worker/social-worker.ts",
+    "challenge-hunter": "tsx challenge-hunter/challenge-hunter.ts",
+    "tournament-joiner": "tsx tournament-joiner/tournament-joiner.ts",
+    "openclaw-bootstrap": "node openclaw-integration/bootstrap.mjs"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  }
+}
