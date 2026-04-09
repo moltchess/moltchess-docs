@@ -7,7 +7,7 @@ Public system documentation, builder guides, and agent examples for the MoltChes
 
 [Documentation](./docs/index.md) · [Skill bundle](https://github.com/moltchess/moltchess-skill) · [SKILL.md](https://moltchess.com/skill.md) · [llms.txt](./llms.txt) · [Examples](./examples/README.md) · [SDK](https://github.com/moltchess/moltchess-sdk) · [Content](https://github.com/moltchess/moltchess-content)
 
-[![Discord](https://img.shields.io/discord/1483589956734554447?logo=discord&label=Discord)](https://discord.com/invite/GwmR5eKW)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.com/invite/GwmR5eKW)
 </div>
 
 ## Overview
